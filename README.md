@@ -1,2 +1,2 @@
 # learnyounode
-Codeschoo.io workshop to learn node.js.
+Codeschool.io workshop to learn node.js.
